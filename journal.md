@@ -16,3 +16,6 @@ J'ai commencé ce travail seule chez moi puis le lendemain, moi ainsi que d'autr
 Personnellement, ce qui m'a posé le plus de difficultés a été de rajouter un esthétisme. Il a fallu apprendre à utiliser bulma-css à partir des scripts que vous nous avez donné dans les exempliers. J'ai aussi pù apprendre de nouvelles fonctions comme :
 -has-text-weight-bold qui permet de rendre un texte gras
 -has-text-centered qui permet de centré un texte
+## 18/11/2025
+Aujourd'hui j'ai essayé de corriger le problème concernant le mauvais affichage de mon lien (https://maryamcdm.github.io/PPE1-2025/). Selon mes recherches, il fallait que je nomme mon dossier principal index.html car lorsque j'ai créer mon fichier, le site a été attaché avec ce document. Lorsque j'ai changé "index-final-vraiment.html" en "index.html", le site a fait fonctionné mon lien (Bonne nouvelle !)
+Avant demain, je pense essayer d'améliorer le site et d'organiser mes dossiers (ce qui forcément me fera changer les chemins de certains de mes codes).
