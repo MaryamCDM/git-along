@@ -19,3 +19,6 @@ Personnellement, ce qui m'a posé le plus de difficultés a été de rajouter un
 ## 18/11/2025
 Aujourd'hui j'ai essayé de corriger le problème concernant le mauvais affichage de mon lien (https://maryamcdm.github.io/PPE1-2025/). Selon mes recherches, il fallait que je nomme mon dossier principal index.html car lorsque j'ai créer mon fichier, le site a été attaché avec ce document. Lorsque j'ai changé "index-final-vraiment.html" en "index.html", le site a fait fonctionné mon lien (Bonne nouvelle !)
 Avant demain, je pense essayer d'améliorer le site et d'organiser mes dossiers (ce qui forcément me fera changer les chemins de certains de mes codes).
+### 23:17
+je me suis rendu compte que tout n'a pas été mis en place au niveau du rangement dépôt distant et dépôt local car je n'avais pas commit certains fichiers (ce qui rendait le déplacement de certains fichiers impossible en dépôt local github) mais une fois les fichiers ajoutés (à l'aide de git add), les déplacements se sont faits plutôt simplement.
+PS : j'ai bien arranger mon dépôt mais je n'ai pas modifié grand chose quant au code de mon site mis à part le chemin de l'image.
