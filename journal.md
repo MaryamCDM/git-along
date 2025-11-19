@@ -26,3 +26,5 @@ PS : j'ai bien arranger mon dépôt mais je n'ai pas modifié grand chose quant 
 ## 19/11/2025
 
 Aujourd'hui, on travaille sur les expressions régulières
+commandes vus :
+\p{l}*
