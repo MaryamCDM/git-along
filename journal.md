@@ -36,3 +36,6 @@ on ne va pas voir les fonctions soft et hard
 git checkout -> montre touts les fichiers modifiés
 git checkout mon_programme -> revient sur le mon_programme du dépôt et annule donc toutes les modifications faites actuellement
 différence avec git... est que l'on peut conserver les modifications
+
+git checkout mon_programme -> revient sur le mon_programme du dépôt et annule donc toutes les modifications faites actuellement
+différence avec git... est que l'on peut conserver les modifications
