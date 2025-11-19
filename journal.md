@@ -32,4 +32,7 @@ commandes vus :
 + = quantifieur qui porte sur le caractère précédent donc \p{l}+ (tous les textes avec les accents)
 + cat mail-liste-hn.txt | grep -P '\p{l}+' -o
 vu git-more et la commande git reset qui permet de revoir une ancienne version d'un commit (il ne supprime cependant aucun changement à moins qu'on ne lui demande) git reset fonctionne sur des commits entiers, pas sur des fichiers spécifiques.
-
+on ne va pas voir les fonctions soft et hard
+git checkout -> montre touts les fichiers modifiés
+git checkout mon_programme -> revient sur le mon_programme du dépôt et annule donc toutes les modifications faites actuellement
+différence avec git... est que l'on peut conserver les modifications
