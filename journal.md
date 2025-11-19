@@ -28,3 +28,7 @@ PS : j'ai bien arranger mon dépôt mais je n'ai pas modifié grand chose quant 
 Aujourd'hui, on travaille sur les expressions régulières
 commandes vus :
 \p{l}*
+\p{han} -> reconnait les caractères chinois
++ = quantifieur qui porte sur le caractère précédent donc \p{l}+ (tous les textes avec les accents)
++ cat mail-liste-hn.txt | grep -P '\p{l}+' -o
+
