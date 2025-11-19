@@ -22,3 +22,7 @@ Avant demain, je pense essayer d'améliorer le site et d'organiser mes dossiers 
 ### 23:17
 je me suis rendu compte que tout n'a pas été mis en place au niveau du rangement dépôt distant et dépôt local car je n'avais pas commit certains fichiers (ce qui rendait le déplacement de certains fichiers impossible en dépôt local github) mais une fois les fichiers ajoutés (à l'aide de git add), les déplacements se sont faits plutôt simplement.
 PS : j'ai bien arranger mon dépôt mais je n'ai pas modifié grand chose quant au code de mon site mis à part le chemin de l'image.
+
+## 19/11/2025
+
+Aujourd'hui, on travaille sur les expressions régulières
