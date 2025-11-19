@@ -31,4 +31,5 @@ commandes vus :
 \p{han} -> reconnait les caractères chinois
 + = quantifieur qui porte sur le caractère précédent donc \p{l}+ (tous les textes avec les accents)
 + cat mail-liste-hn.txt | grep -P '\p{l}+' -o
+vu git-more et la commande git reset qui permet de revoir une ancienne version d'un commit (il ne supprime cependant aucun changement à moins qu'on ne lui demande) git reset fonctionne sur des commits entiers, pas sur des fichiers spécifiques.
 
