@@ -51,7 +51,7 @@ uv install
 Elle sert à installer des programmes et leurs commandes associées. Lors d'un test uv fait en classe, uv a installé 12 programmes utiles. Les paquets python s'installent depuis PyPI(pypi.org). J'ai aussi consulté le dépôt GitHub de wordcloud, puisqu'on peut l'installer localement. J'ai dû réinstaller jupyter-lab (mauvaise installation lors de l'install party), avec :
 uv pip install jupyterlab
 
-## Wordcloud
+### Wordcloud
 Voici la commande utilisée pour générer un nuage de mots :
 wordcloud_cli --text pg77333.txt --imagefile pg77333.png
 J'ai rencontré plusieurs problèmes cependant :
@@ -62,7 +62,7 @@ J'ai rencontré plusieurs problèmes cependant :
 Par ailleurs, après cela, nous avons parlé du mask, pour donner une forme à notre nuage de mots, je n'ai malheureusement pas réussi à le faire.
 Enfin, nous avons commencé un nouveau type de travail : la tokenisation
 
-## Pour le projet
+### Pour le projet
 - tableau
 - nuage de mots
 - probabilités
