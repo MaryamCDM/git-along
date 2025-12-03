@@ -67,3 +67,9 @@ Enfin, nous avons commencé un nouveau type de travail : la tokenisation
 - nuage de mots
 - probabilités
 -> ce sera la base de notre travail
+
+## 03/12/2025
+Début du projet et présentation
+choix du mot + une hypothèse probable (éviter les réseaux sociaux, on choisit la langue qu'on veut)
+on étudie les usages d'un mot
+récupérer les pages html et les mettre sur une machine git
